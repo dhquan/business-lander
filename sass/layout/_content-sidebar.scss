@@ -1,0 +1,19 @@
+.content-area {
+	float: left;
+	width: 70%;
+	margin-left: 15%;
+    margin-right: 15%;
+}
+
+.site-content .widget-area {
+	float: right;
+	overflow: hidden;
+	width: $size__site-sidebar;
+}
+
+.site-footer {
+	clear: both;
+	width: $size__site-main;
+	padding-bottom: 80px;
+
+}

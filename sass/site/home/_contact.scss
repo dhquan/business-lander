@@ -1,0 +1,21 @@
+.section-contact__left {
+	max-width: 500px;
+	.name {
+		margin: 0;
+		font-weight: 100;
+		@include font-size(4.8);
+		text-align: right;
+		text-transform: uppercase;
+		line-height: 64px;
+		color: $color__white;
+		padding-top: 93px;
+	}
+	p {
+		font-weight: 400;
+		@include font-size(1.7);
+		color: $color__white;
+		text-align: right;
+		margin-top: 40px;
+		padding-bottom: 140px;
+	}
+}
