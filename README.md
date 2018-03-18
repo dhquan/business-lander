@@ -1,0 +1,2 @@
+# business-lander
+theme wordpress
